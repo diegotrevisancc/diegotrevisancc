@@ -20,8 +20,6 @@
     
  </div><br/>
  
- Dedico minha vida diariamente a continuar melhorando e evoluindo na área de programação. Tenho muito interesse tanto pelo back end quanto pelo front end.
- 
  ## Estudando atualmente: 
  <ul>
   <li>Node.js</li>
