@@ -26,3 +26,5 @@
   <li>React</li>
   <li>SQL</li>
  </ul>
+
+![snake gif](https://github.com/diegotrevisancc/diegotrevisancc/blob/output/github-contribution-grid-snake.svg)
