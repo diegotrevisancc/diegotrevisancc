@@ -22,7 +22,7 @@
  
  ## Estudando atualmente: 
  <ul>
-  <li>React</li>
+  <li>VueJs</li>
   <li>SQL</li>
  </ul>
 
