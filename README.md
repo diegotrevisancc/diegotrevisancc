@@ -22,7 +22,8 @@
  
  ## Estudando atualmente: 
  <ul>
-  <li>VueJs</li>
+  <li>Java</li>
+  <li>Springboot</li>
   <li>SQL</li>
  </ul>
 
