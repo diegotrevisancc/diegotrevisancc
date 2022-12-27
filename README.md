@@ -17,7 +17,7 @@ ___
 ____
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diegotrevisancc&repo=starwars-react-webapp&hide_border=true)](https://github.com/diegotrevisancc/starwars-react-webapp)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diegotrevisancc&repo=fichas-rpg&hide_border=true)](https://github.com/diegotrevisancc/fichas-rpg)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diegotrevisancc&repo=rpg-char-generator&hide_border=true)](https://github.com/diegotrevisancc/fichas-rpg)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diegotrevisancc&repo=the-python-game&hide_border=true)](https://github.com/diegotrevisancc/the-python-game)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diegotrevisancc&repo=Portfolio-Website&hide_border=true)](https://github.com/diegotrevisancc/Portfolio-Website)
  
