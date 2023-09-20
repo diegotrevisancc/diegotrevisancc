@@ -8,17 +8,14 @@
 </p>
 
 <h1>System.out.println("What's up! My name is Diego");</h1>
-<p> I'm 21 years old and had my first contact with programming when i was about thirteen years old. Hope you like my personal projects, also i have separated a few ones that i've been working with since 2022. Stay Hard!</p>
+<p> I'm 22 years old and had my first contact with programming when i was about thirteen years old. Hope you like my personal projects, also i have separated a few ones that i've been working with since 2022. Stay Hard!</p>
 
 ___
 
 ![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=diegotrevisancc&show_icons=true&theme=transparent&hide_border=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegotrevisancc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ____
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diegotrevisancc&repo=library-api&hide_border=true)]([https://github.com/diegotrevisancc/starwars-react-webapp](https://github.com/diegotrevisancc/library-api))
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diegotrevisancc&repo=starwars-react-webapp&hide_border=true)](https://github.com/diegotrevisancc/starwars-react-webapp)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diegotrevisancc&repo=the-python-game&hide_border=true)](https://github.com/diegotrevisancc/the-python-game)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diegotrevisancc&repo=Portfolio-Website&hide_border=true)](https://github.com/diegotrevisancc/Portfolio-Website)
+
  
  <h2> Feel more than free to send me a ✉️ </h2>
                                                                                                    
