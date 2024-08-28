@@ -7,8 +7,8 @@
   </p>
 </p>
 
-<h1>System.out.println("What's up! My name is Diego");</h1>
-<p> I'm 23 years old and had my first contact with programming when i was about thirteen years old. Hope you like my personal projects. Stay Hard!</p>
+<h1>log.info("What's up! My name is Diego");</h1>
+<p> I'm twenty three years old and had my first contact with programming when i was around thirteen. Hope you like my personal projects. Stay Hard!</p>
 
 ___
 
